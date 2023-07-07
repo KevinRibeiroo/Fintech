@@ -1,0 +1,37 @@
+.cabecalho-cadastro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #7F88D8;
+    height: 8em;
+    justify-items: flex-start;
+}
+.Titulo-header {
+    align-self: center;
+}
+.container-cadastro {
+    background-color: #7F88D8;
+    height: 35em;
+    width: 40em;
+    
+}
+
+.inputs-cadastros {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-cadastro {
+    margin-bottom: 1em;
+}
+
+.container-fluid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between !important;
+    height: 100vh;
+}
+
+.btn-lg {
+    width: 14em;
+}
